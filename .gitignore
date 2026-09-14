@@ -1,0 +1,23 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local credentials, case data and generated output
+.env
+.env.*
+!.env.example
+cases/
+private/
+output/
+*.log
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

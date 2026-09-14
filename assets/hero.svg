@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">玄衡 · 命理推演</title>
+  <desc id="desc">先核历，再推演。让判断有依据，让表达有分寸。方木出品，mingli Skill，v2.8.1。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172c31"/>
+      <stop offset="1" stop-color="#0c1a20"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#c9b079" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#c9b079" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <circle cx="1060" cy="180" r="265" fill="url(#glow)"/>
+  <path d="M44 40H1236M44 320H1236" stroke="#c5aa72" stroke-opacity=".25"/>
+  <path d="M44 40V70M1236 290V320" stroke="#c5aa72" stroke-width="2"/>
+  <g font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif">
+    <text x="76" y="87" fill="#c5aa72" font-size="13" letter-spacing="4">FANGMU  /  MINGLI SKILL</text>
+    <text x="72" y="179" fill="#f2eee4" font-size="76" font-weight="600" letter-spacing="10">玄衡</text>
+    <path d="M300 125V180" stroke="#c5aa72" stroke-opacity=".6"/>
+    <text x="331" y="169" fill="#e3dece" font-size="32" letter-spacing="6">命理推演</text>
+    <text x="77" y="227" fill="#b8c4c1" font-size="19" letter-spacing="1">先核历，再推演。让判断有依据，让表达有分寸。</text>
+    <rect x="76" y="264" width="78" height="27" rx="13.5" fill="#c5aa72" fill-opacity=".13" stroke="#c5aa72" stroke-opacity=".4"/>
+    <text x="115" y="282.5" text-anchor="middle" fill="#dbc594" font-size="12">v2.8.1</text>
+    <text x="174" y="283" fill="#98aaa7" font-size="13" letter-spacing="2">历法 · 八字 · 六爻 · 梅花 · 民俗</text>
+  </g>
+  <g transform="translate(1050 180)" fill="none" stroke="#c5aa72">
+    <circle r="120" stroke-opacity=".2"/>
+    <circle r="104" stroke-opacity=".6"/>
+    <circle r="72" stroke-opacity=".22"/>
+    <path d="M0 -136V-116M0 116V136M-136 0H-116M116 0H136M-96 -96L-82 -82M82 82L96 96M96 -96L82 -82M-82 82L-96 96" stroke-opacity=".6"/>
+    <path d="M0 -72L51 -51L72 0L51 51L0 72L-51 51L-72 0L-51 -51Z" stroke-opacity=".32"/>
+    <path d="M0 -50L50 0L0 50L-50 0Z" stroke-opacity=".48"/>
+    <circle r="5" fill="#c5aa72" stroke="none"/>
+    <g stroke-width="3" stroke-linecap="square" opacity=".8">
+      <path d="M-13 -89H13M-13 89H-3M3 89H13M-89 -13V-3M-89 3V13M89 -13V13"/>
+    </g>
+  </g>
+</svg>
